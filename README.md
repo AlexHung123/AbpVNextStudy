@@ -1,0 +1,1 @@
+- A BookStore simple demo for testing AbpVNext framework 
