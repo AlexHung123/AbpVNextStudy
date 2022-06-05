@@ -1,0 +1,12 @@
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\bin\Debug\net6.0\BookStore.Domain.deps.json
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\bin\Debug\net6.0\BookStore.Domain.dll
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\bin\Debug\net6.0\BookStore.Domain.pdb
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.csproj.AssemblyReference.cache
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.AssemblyInfoInputs.cache
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.AssemblyInfo.cs
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.dll
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\refint\BookStore.Domain.dll
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\BookStore.Domain.pdb
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.Domain\obj\Debug\net6.0\ref\BookStore.Domain.dll

@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Application\\BookStore.Application.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Application\\BookStore.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Application\\BookStore.Application.csproj",
+        "projectName": "BookStore.Application",
+        "projectPath": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Application\\BookStore.Application.csproj",
+        "packagesPath": "C:\\Users\\yifen\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yifen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.EntityFramworkCore\\BookStore.EntityFramworkCore.csproj": {
+                "projectPath": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.EntityFramworkCore\\BookStore.EntityFramworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.Ddd.Application": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Domain\\BookStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Domain\\BookStore.Domain.csproj",
+        "projectName": "BookStore.Domain",
+        "projectPath": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Domain\\BookStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\yifen\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yifen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.AspNetCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.Ddd.Domain": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.EntityFramworkCore\\BookStore.EntityFramworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.EntityFramworkCore\\BookStore.EntityFramworkCore.csproj",
+        "projectName": "BookStore.EntityFramworkCore",
+        "projectPath": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.EntityFramworkCore\\BookStore.EntityFramworkCore.csproj",
+        "packagesPath": "C:\\Users\\yifen\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.EntityFramworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yifen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Domain\\BookStore.Domain.csproj": {
+                "projectPath": "c:\\Users\\yifen\\Desktop\\.Net\\AbpDemo\\BookStore.Domain\\BookStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Volo.Abp.Core": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Volo.Abp.EntityFrameworkCore.MySQL": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

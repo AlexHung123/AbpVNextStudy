@@ -1,0 +1,15 @@
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\bin\Debug\net6.0\BookStore.EntityFramworkCore.deps.json
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\bin\Debug\net6.0\BookStore.EntityFramworkCore.dll
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\bin\Debug\net6.0\BookStore.EntityFramworkCore.pdb
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\BookStore.EntityFramworkCore.csproj.AssemblyReference.cache
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\BookStore.EntityFramworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\BookStore.EntityFramworkCore.AssemblyInfoInputs.cache
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\BookStore.EntityFramworkCore.AssemblyInfo.cs
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\BookStore.EntityFramworkCore.csproj.CoreCompileInputs.cache
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\BookStore.EntityFramworkCore.dll
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\refint\BookStore.EntityFramworkCore.dll
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\BookStore.EntityFramworkCore.pdb
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\ref\BookStore.EntityFramworkCore.dll
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\bin\Debug\net6.0\BookStore.Domain.dll
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\bin\Debug\net6.0\BookStore.Domain.pdb
+C:\Users\yifen\Desktop\.Net\AbpDemo\BookStore.EntityFramworkCore\obj\Debug\net6.0\BookStore.EntityFramworkCore.csproj.CopyComplete
